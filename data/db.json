@@ -17,12 +17,6 @@
       "body": "Once upon a time, there was a developer named Sarah who needed to build a new feature for her web app. The feature required her to display a large amount of data in a table, and she wanted the table to be fast and responsive.\n\nSarah decided to use React, a popular JavaScript library for building user interfaces, to implement the feature. She began by creating a new React component for the table, and added some code to fetch the data from a remote API.\n\nNext, Sarah added a search bar to the table so that users could filter the data by a specific keyword. She used the useState hook in React to manage the search query, and added a useEffect hook to fetch the filtered data whenever the query changed.\n\nWith the basic functionality in place, Sarah started working on optimizing the performance of the table. She noticed that the table was re-rendering every time the search query changed, even if the data being displayed didn't actually change.\n\nTo fix this, Sarah added a shouldComponentUpdate method to the table component, which would only re-render the table if the data had actually changed. This made the table much faster and more responsive, and the users of the web app were happy with the improved performance.\n\nSarah was proud of her work, and she continued to improve and refine the table component, making it even more powerful and user-friendly. And they all lived happily ever after.",
       "author": "mario",
       "id": 3
-    },
-    {
-      "title": "dsd",
-      "body": "sdsds",
-      "author": "yoshi",
-      "id": 4
     }
   ]
 }
